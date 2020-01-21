@@ -14,4 +14,3 @@ def run_game():
         screen.fill(settings.color)
         pygame.display.flip()#让最近绘制的屏幕可见
 run_game()
-print(sys.path)
